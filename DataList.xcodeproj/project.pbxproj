@@ -15,6 +15,10 @@
 		D00E8F0B23F6E70200F4B249 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D00E8F0923F6E70200F4B249 /* LaunchScreen.storyboard */; };
 		D00E8F1623F6E70300F4B249 /* DataListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00E8F1523F6E70300F4B249 /* DataListTests.swift */; };
 		D00E8F2123F6E70300F4B249 /* DataListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00E8F2023F6E70300F4B249 /* DataListUITests.swift */; };
+		D00E8F3123F6E8D200F4B249 /* DictionaryTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = D00E8F2F23F6E8D200F4B249 /* DictionaryTableViewCell.xib */; };
+		D00E8F3223F6E8D200F4B249 /* DictionaryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00E8F3023F6E8D200F4B249 /* DictionaryTableViewCell.swift */; };
+		D00E8F3423F6EA4900F4B249 /* dataList.json in Resources */ = {isa = PBXBuildFile; fileRef = D00E8F3323F6EA4900F4B249 /* dataList.json */; };
+		D00E8F3623F6EB6900F4B249 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00E8F3523F6EB6900F4B249 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +53,10 @@
 		D00E8F1C23F6E70300F4B249 /* DataListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DataListUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D00E8F2023F6E70300F4B249 /* DataListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataListUITests.swift; sourceTree = "<group>"; };
 		D00E8F2223F6E70300F4B249 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D00E8F2F23F6E8D200F4B249 /* DictionaryTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DictionaryTableViewCell.xib; sourceTree = "<group>"; };
+		D00E8F3023F6E8D200F4B249 /* DictionaryTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DictionaryTableViewCell.swift; sourceTree = "<group>"; };
+		D00E8F3323F6EA4900F4B249 /* dataList.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = dataList.json; sourceTree = "<group>"; };
+		D00E8F3523F6EB6900F4B249 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +107,7 @@
 		D00E8EFD23F6E6FF00F4B249 /* DataList */ = {
 			isa = PBXGroup;
 			children = (
+				D00E8F2E23F6E8AD00F4B249 /* Xib */,
 				D00E8EFE23F6E6FF00F4B249 /* AppDelegate.swift */,
 				D00E8F0023F6E6FF00F4B249 /* SceneDelegate.swift */,
 				D00E8F0223F6E6FF00F4B249 /* ViewController.swift */,
@@ -106,6 +115,8 @@
 				D00E8F0723F6E70200F4B249 /* Assets.xcassets */,
 				D00E8F0923F6E70200F4B249 /* LaunchScreen.storyboard */,
 				D00E8F0C23F6E70200F4B249 /* Info.plist */,
+				D00E8F3323F6EA4900F4B249 /* dataList.json */,
+				D00E8F3523F6EB6900F4B249 /* Model.swift */,
 			);
 			path = DataList;
 			sourceTree = "<group>";
@@ -126,6 +137,15 @@
 				D00E8F2223F6E70300F4B249 /* Info.plist */,
 			);
 			path = DataListUITests;
+			sourceTree = "<group>";
+		};
+		D00E8F2E23F6E8AD00F4B249 /* Xib */ = {
+			isa = PBXGroup;
+			children = (
+				D00E8F3023F6E8D200F4B249 /* DictionaryTableViewCell.swift */,
+				D00E8F2F23F6E8D200F4B249 /* DictionaryTableViewCell.xib */,
+			);
+			path = Xib;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -233,7 +253,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				D00E8F0B23F6E70200F4B249 /* LaunchScreen.storyboard in Resources */,
+				D00E8F3123F6E8D200F4B249 /* DictionaryTableViewCell.xib in Resources */,
 				D00E8F0823F6E70200F4B249 /* Assets.xcassets in Resources */,
+				D00E8F3423F6EA4900F4B249 /* dataList.json in Resources */,
 				D00E8F0623F6E6FF00F4B249 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -259,7 +281,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D00E8F3623F6EB6900F4B249 /* Model.swift in Sources */,
 				D00E8F0323F6E6FF00F4B249 /* ViewController.swift in Sources */,
+				D00E8F3223F6E8D200F4B249 /* DictionaryTableViewCell.swift in Sources */,
 				D00E8EFF23F6E6FF00F4B249 /* AppDelegate.swift in Sources */,
 				D00E8F0123F6E6FF00F4B249 /* SceneDelegate.swift in Sources */,
 			);

@@ -1,0 +1,598 @@
+{
+  "items": [
+    {
+      "actionType": 103,
+      "version": 4,
+      "pickList": [
+        {
+          "title": "BACALAR",
+          "items": [
+            {
+              "textField": "Tipi ve kesiti uygun olmalı",
+              "masterId": 671,
+              "itemValue": "347"
+            },
+            {
+              "textField": "Yatay baca açındırılmış olarak 2,5m.yi geçmemeli",
+              "masterId": 674,
+              "itemValue": "349"
+            },
+            {
+              "textField": "Bacanın geçtiği mahal havalandırılmalı",
+              "masterId": 675,
+              "itemValue": "350"
+            },
+            {
+              "textField": "200 kW üzeri yoğuşmalı kazanlarda oluşan yoğuşma suyu nötralize edilmeli",
+              "masterId": 681,
+              "itemValue": "355"
+            },
+            {
+              "textField": "Baca bağlantısı banyo,wc, yatak odasından geçmemeli",
+              "masterId": 679,
+              "itemValue": "353"
+            },
+            {
+              "textField": "Dışardan çıkan bacalar çift cidarlı, izoleli ve çelik olmalı",
+              "masterId": 676,
+              "itemValue": "351"
+            },
+            {
+              "textField": "Etkili baca yüksekliği min. 4m. Olmalı",
+              "masterId": 672,
+              "itemValue": "348"
+            },
+            {
+              "textField": "Hermetik baca çıkışı uygun olmalı",
+              "masterId": 680,
+              "itemValue": "354"
+            },
+            {
+              "textField": "Hızlandırma parçası min. 40 cm. Olmalı",
+              "masterId": 678,
+              "itemValue": "352"
+            }
+          ]
+        },
+        {
+          "title": "CİHAZLAR",
+          "items": [
+            {
+              "textField": "Her. cihaz eksoz atışı aydınlığa bağlanmamalı",
+              "masterId": 707,
+              "itemValue": "360"
+            },
+            {
+              "textField": "Esnek Bağlantı elemanı boyu 120 cm üzeri olmamalı (Ocak)",
+              "masterId": 720,
+              "itemValue": "366"
+            },
+            {
+              "textField": "Esnek Bağlantı elemanı boyu 40 cm üzeri olmamalı (Kombi, Şofben, Soba)",
+              "masterId": 721,
+              "itemValue": "367"
+            },
+            {
+              "textField": "Bacalı cihaz mahali 8 m3 e tamamlanmalı",
+              "masterId": 712,
+              "itemValue": "363"
+            },
+            {
+              "textField": "Bacalı cihaz, y.odası, wc, banyoya konulmamalı",
+              "masterId": 705,
+              "itemValue": "358"
+            },
+            {
+              "textField": " uygunluğu olmalı",
+              "masterId": 702,
+              "itemValue": "356"
+            },
+            {
+              "textField": "Cihaz yeri projede düzeltilmeli veya yeri değiştirmeli",
+              "masterId": 714,
+              "itemValue": "364"
+            },
+            {
+              "textField": "Cihaz mahali(balkon) kapalı olmalı",
+              "masterId": 706,
+              "itemValue": "359"
+            },
+            {
+              "textField": "Cihaz mahalinde  havalandırılma sağlanmalı",
+              "masterId": 708,
+              "itemValue": "361"
+            },
+            {
+              "textField": "Cihaz havalandırılmış kutu içine alınmalı",
+              "masterId": 709,
+              "itemValue": "362"
+            },
+            {
+              "textField": "Montaj ve bağlantılar standartlara uygun olmalı",
+              "masterId": 717,
+              "itemValue": "365"
+            },
+            {
+              "textField": "Tipi projeye uygun olmalı",
+              "masterId": 704,
+              "itemValue": "357"
+            }
+          ]
+        },
+        {
+          "title": "DİĞER",
+          "items": [
+            {
+              "textField": "DİĞER",
+              "masterId": 748,
+              "itemValue": "369"
+            }
+          ]
+        },
+        {
+          "title": "GENEL TESİSAT",
+          "items": [
+            {
+              "textField": "Tavanı ahşap veya yanıcı özellikteki yapılar için gaz alarm cihazı konulmalı",
+              "masterId": 570,
+              "itemValue": "315"
+            },
+            {
+              "textField": "Solenoid vana ve gaz alarm cihazı bulunmalı",
+              "masterId": 564,
+              "itemValue": "313"
+            },
+            {
+              "textField": "Menfez ile hermetik baca çıkışı arasındaki mesafe uygun olmalı",
+              "masterId": 574,
+              "itemValue": "316"
+            },
+            {
+              "textField": "Kolon tesisatı kaynaklı olmalı",
+              "masterId": 561,
+              "itemValue": "310"
+            },
+            {
+              "textField": "Proje ve tesisat birbirinden farklı olmamalı",
+              "masterId": 556,
+              "itemValue": "305"
+            },
+            {
+              "textField": "Ocak vanası ocak üzerinde olmamalı",
+              "masterId": 580,
+              "itemValue": "319"
+            },
+            {
+              "textField": "Tesisatta kaçak var",
+              "masterId": 559,
+              "itemValue": "308"
+            },
+            {
+              "textField": "Tesisat topraklama çubuğu ve kablosu uygun olmalı",
+              "masterId": 563,
+              "itemValue": "312"
+            },
+            {
+              "textField": "Tesisat topraklanmalı",
+              "masterId": 562,
+              "itemValue": "311"
+            },
+            {
+              "textField": "Uygun olmayan kaynaklar iptal edilmeli",
+              "masterId": 560,
+              "itemValue": "309"
+            },
+            {
+              "textField": "Boru ve fitting malzemeler standartlara uygun olmalı",
+              "masterId": 557,
+              "itemValue": "306"
+            },
+            {
+              "textField": "Branşman ve cihaz vanaları kilitli tip olmalı",
+              "masterId": 579,
+              "itemValue": "318"
+            },
+            {
+              "textField": "Binanın dilatasyonla ayrılmış iki kısmı arasında esnek bağlantı elemanı kullanılmalı",
+              "masterId": 582,
+              "itemValue": "321"
+            },
+            {
+              "textField": "Gaz alarm cihazı merdiven otomatiğine bağlanmamalı",
+              "masterId": 581,
+              "itemValue": "320"
+            },
+            {
+              "textField": "Gaz alarm cihazı selenoid vana ile irtibatlı olmalı",
+              "masterId": 567,
+              "itemValue": "314"
+            },
+            {
+              "textField": "Diğer tesisatlara olan mesafeler standartlara uygun olmalı",
+              "masterId": 558,
+              "itemValue": "307"
+            },
+            {
+              "textField": "Dışarıdaki vanalar havalandırılmış koruyucu kutuda olmalı",
+              "masterId": 577,
+              "itemValue": "317"
+            }
+          ]
+        },
+        {
+          "title": "İDARİ KONULAR",
+          "items": [
+            {
+              "textField": "Kayıtlı mühendis yaka kartı ile gelmeli",
+              "masterId": 363,
+              "itemValue": "265"
+            },
+            {
+              "textField": "Katılım ve güvence farkı alınmalı",
+              "masterId": 371,
+              "itemValue": "268"
+            },
+            {
+              "textField": "Daire kapısı montajı yapılmış olmalı",
+              "masterId": 375,
+              "itemValue": "270"
+            },
+            {
+              "textField": "Adres, proje kapak bilgileri düzeltilmeli",
+              "masterId": 366,
+              "itemValue": "266"
+            },
+            {
+              "textField": "Abone evde bulunmalı",
+              "masterId": 368,
+              "itemValue": "267"
+            },
+            {
+              "textField": "Bina inşaat tadilatından sonra kontrol edilmeli",
+              "masterId": 372,
+              "itemValue": "269"
+            },
+            {
+              "textField": "Mutfak tezgahı ve dolapları montajı yapılmış olmalı",
+              "masterId": 379,
+              "itemValue": "271"
+            },
+            {
+              "textField": "tesisat red",
+              "masterId": 385,
+              "itemValue": "273"
+            },
+            {
+              "textField": "Sözleşme ve proje ticari olarak düzeltilmeli",
+              "masterId": 361,
+              "itemValue": "264"
+            },
+            {
+              "textField": "Sözleşme yanlış düzenlenmiş",
+              "masterId": 381,
+              "itemValue": "272"
+            }
+          ]
+        },
+        {
+          "title": "KAZAN DAİRESİ",
+          "items": [
+            {
+              "textField": "Kazan kapasitesi ve brülör projeye uygun olmalı",
+              "masterId": 636,
+              "itemValue": "335"
+            },
+            {
+              "textField": "Kazan dairesine giriş ortak mahalden girilebilmeli",
+              "masterId": 641,
+              "itemValue": "340"
+            },
+            {
+              "textField": "Kazan dairesi için güvenlik tabelası konulmalı",
+              "masterId": 652,
+              "itemValue": "345"
+            },
+            {
+              "textField": "Kazan dairesinde kullanılan alarm cihazları, aydınlatmalar ve pano ex-proof olmalı",
+              "masterId": 654,
+              "itemValue": "346"
+            },
+            {
+              "textField": "Baca izolasyonu yapılmalı",
+              "masterId": 642,
+              "itemValue": "341"
+            },
+            {
+              "textField": "Ayar seti projedeki detaya uygun olmalı",
+              "masterId": 640,
+              "itemValue": "339"
+            },
+            {
+              "textField": "Ana kesme şalteri bulunmalı",
+              "masterId": 639,
+              "itemValue": "338"
+            },
+            {
+              "textField": "Alt ve üst havalandırma uygun olmalı",
+              "masterId": 637,
+              "itemValue": "336"
+            },
+            {
+              "textField": "Kazan ve baca topraklanmalı",
+              "masterId": 638,
+              "itemValue": "337"
+            },
+            {
+              "textField": "Solenoid vana ve gaz alarm cihazı bulunmalı",
+              "masterId": 647,
+              "itemValue": "344"
+            },
+            {
+              "textField": "Yatay baca msf. Max. Yüksekliğin ¼ ü olmalı",
+              "masterId": 644,
+              "itemValue": "343"
+            },
+            {
+              "textField": "Yakıt tankı iptal edilmeli",
+              "masterId": 643,
+              "itemValue": "342"
+            }
+          ]
+        },
+        {
+          "title": "SAYAÇLAR",
+          "items": [
+            {
+              "textField": "Test nipeli sayaç sonrası olmalı",
+              "masterId": 608,
+              "itemValue": "328"
+            },
+            {
+              "textField": "Yükseklik uygun olmalı",
+              "masterId": 601,
+              "itemValue": "323"
+            },
+            {
+              "textField": "Sayaç sabitlenmeli ve desteklenmeli",
+              "masterId": 604,
+              "itemValue": "326"
+            },
+            {
+              "textField": "Sayaç vanası, hemen sayaç öncesi olmalı",
+              "masterId": 603,
+              "itemValue": "325"
+            },
+            {
+              "textField": "Sayaçlar elektrik hatlarına  yakın yerlere monte edilmemeli",
+              "masterId": 614,
+              "itemValue": "330"
+            },
+            {
+              "textField": "Sayaçlar muayene edilebilir ve göstergeleri okunabilir bir yerde olmalı",
+              "masterId": 617,
+              "itemValue": "332"
+            },
+            {
+              "textField": "Sayaç arızalı olmamalı",
+              "masterId": 616,
+              "itemValue": "331"
+            },
+            {
+              "textField": "Sayaç emniyetli bir yerde olmalı",
+              "masterId": 609,
+              "itemValue": "329"
+            },
+            {
+              "textField": "Ortak mahalde veya bina dışında olmalı",
+              "masterId": 602,
+              "itemValue": "324"
+            },
+            {
+              "textField": "Rotary sayaçlar şartnameye uygun ve terazide olmalı",
+              "masterId": 619,
+              "itemValue": "334"
+            },
+            {
+              "textField": "Rotary, Türbin ve Körüklü sayaç öncesi filitre konulmalı",
+              "masterId": 605,
+              "itemValue": "327"
+            },
+            {
+              "textField": "G40 ve üzeri sayaçlar körüklü olamaz",
+              "masterId": 600,
+              "itemValue": "322"
+            },
+            {
+              "textField": "G40 ve üzeri sayaçlar öncesinde fltre kullanılmalı",
+              "masterId": 618,
+              "itemValue": "333"
+            },
+            {
+              "textField": "Dışarıdaki sayaçlar havalandırılmış koruyucu kutuda olmalı",
+              "masterId": 607,
+              "itemValue": "368"
+            }
+          ]
+        },
+        {
+          "title": "SERVİS KUTUSU",
+          "items": [
+            {
+              "textField": "Bağlantı aksları aynı eksende olmalı",
+              "masterId": 456,
+              "itemValue": "276"
+            },
+            {
+              "textField": "Kutu bağlantısı esnek bağlantıyla yapılmalı",
+              "masterId": 454,
+              "itemValue": "274"
+            },
+            {
+              "textField": "Regülatör kapasitesi yetersiz",
+              "masterId": 455,
+              "itemValue": "275"
+            },
+            {
+              "textField": "Yan bina için branşman bırakılmalı",
+              "masterId": 457,
+              "itemValue": "277"
+            }
+          ]
+        },
+        {
+          "title": "TOPRAK ALTI TESİSATI",
+          "items": [
+            {
+              "textField": "Hazır izoleli boru veya sıcak sargı kullanılmalı",
+              "masterId": 468,
+              "itemValue": "278"
+            },
+            {
+              "textField": "Katotik koruma yapılmalı",
+              "masterId": 471,
+              "itemValue": "280"
+            },
+            {
+              "textField": "Bükme ve dişli bağlantı yapılmamalı",
+              "masterId": 470,
+              "itemValue": "279"
+            },
+            {
+              "textField": "Sarı kum ve ikaz bandı kullanılmalı",
+              "masterId": 473,
+              "itemValue": "282"
+            },
+            {
+              "textField": "Yertipi kutu flanşı sonrası dirsek kullanılmalı",
+              "masterId": 474,
+              "itemValue": "283"
+            },
+            {
+              "textField": "Tranşe şartları sağlanmalı",
+              "masterId": 472,
+              "itemValue": "281"
+            }
+          ]
+        },
+        {
+          "title": "VANALAR",
+          "items": [
+            {
+              "textField": "Vana yüksekliği uygun olmalı",
+              "masterId": 533,
+              "itemValue": "300"
+            },
+            {
+              "textField": "Vanadan sonra rakor konulmalı",
+              "masterId": 531,
+              "itemValue": "298"
+            },
+            {
+              "textField": "Vanalar erişilebilir ve emniyetli yerde olmalı",
+              "masterId": 537,
+              "itemValue": "304"
+            },
+            {
+              "textField": "Vanalar TSE9809 a uygun olmalı",
+              "masterId": 530,
+              "itemValue": "297"
+            },
+            {
+              "textField": "Körtapadan önce vana kullanılmalı",
+              "masterId": 534,
+              "itemValue": "301"
+            },
+            {
+              "textField": "Kolon ayrımlarına vana konulmalı",
+              "masterId": 536,
+              "itemValue": "303"
+            },
+            {
+              "textField": "2' üzerindeki vana bağlantısı flanşlı olmalı",
+              "masterId": 535,
+              "itemValue": "302"
+            },
+            {
+              "textField": "Dışarıdaki vanalar kutu içinde olmalı",
+              "masterId": 532,
+              "itemValue": "299"
+            }
+          ]
+        },
+        {
+          "title": "YER ÜSTÜ TESİSATI",
+          "items": [
+            {
+              "textField": "Duvar ve zemin geçişleri kılıflı olmalı",
+              "masterId": 495,
+              "itemValue": "288"
+            },
+            {
+              "textField": "DN65 üzeri borular elektrik-ark kaynağı yapılmalı",
+              "masterId": 498,
+              "itemValue": "291"
+            },
+            {
+              "textField": "Kapalı hacimler havalandırılmalı",
+              "masterId": 494,
+              "itemValue": "287"
+            },
+            {
+              "textField": "İzolasyon flanşı ve contası konulmalı",
+              "masterId": 513,
+              "itemValue": "296"
+            },
+            {
+              "textField": "Aydınlıkdan hat geçirilmemeli",
+              "masterId": 500,
+              "itemValue": "292"
+            },
+            {
+              "textField": "300/21 mbar regülatör uygun olmalı",
+              "masterId": 491,
+              "itemValue": "284"
+            },
+            {
+              "textField": "Bükmeler ve dişli bağlantılar standartlara uygun olmalı",
+              "masterId": 497,
+              "itemValue": "290"
+            },
+            {
+              "textField": "Bina üst noktadan havalandırılmalı veya alarm konmalı",
+              "masterId": 510,
+              "itemValue": "295"
+            },
+            {
+              "textField": "Borular standartlara uygun mesnetlenmeli",
+              "masterId": 506,
+              "itemValue": "294"
+            },
+            {
+              "textField": "Branşmanlar daire önüne çekilmeli",
+              "masterId": 492,
+              "itemValue": "285"
+            },
+            {
+              "textField": "Mastik dolgular tamamlanmalı",
+              "masterId": 496,
+              "itemValue": "289"
+            },
+            {
+              "textField": "Tesisat ortak mahalden geçirilmeli",
+              "masterId": 493,
+              "itemValue": "286"
+            },
+            {
+              "textField": "Tüm bağımsız birimler için kapasite bırakılmalı",
+              "masterId": 504,
+              "itemValue": "293"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "isSuccess": true,
+  "message": "İşlem Başarılı.",
+  "statusCode": 1
+}
